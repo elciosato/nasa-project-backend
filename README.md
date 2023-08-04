@@ -11,20 +11,6 @@ The frontend is developed in React and you can find the source code [here](https
 
 ## Backend
 
-## Table of Contents
-
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-
-## Features
-
-- **Feature 1**: [Briefly describe a key feature or functionality of your Node.js app]
-- **Feature 2**: [Briefly describe another key feature or functionality of your Node.js app]
-- **Feature 3**: [Briefly describe another key feature or functionality of your Node.js app]
-- ...
-
 ## Technologies
 
 The following technologies and tools were used in the development of this application:
