@@ -11,7 +11,7 @@ The frontend is developed in React and you can find the source code [here](https
 
 ## Backend
 
-## Technologies
+### Technologies
 
 The following technologies and tools were used in the development of this application:
 
@@ -25,7 +25,7 @@ The following technologies and tools were used in the development of this applic
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [morgan](https://www.npmjs.com/package/morgan)
 
-## Installation
+### Installation
 
 To run this application locally, make sure you have the following prerequisites installed:
 
